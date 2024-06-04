@@ -1,0 +1,1 @@
+SELECT Country, count(*) as number_of_orders FROM `ncpl-420514.sales.orders` group by Country
